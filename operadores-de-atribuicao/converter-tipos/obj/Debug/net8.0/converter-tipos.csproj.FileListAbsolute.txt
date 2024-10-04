@@ -1,0 +1,14 @@
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\bin\Debug\net8.0\converter-tipos.exe
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\bin\Debug\net8.0\converter-tipos.deps.json
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\bin\Debug\net8.0\converter-tipos.runtimeconfig.json
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\bin\Debug\net8.0\converter-tipos.dll
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\bin\Debug\net8.0\converter-tipos.pdb
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.AssemblyInfoInputs.cache
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.AssemblyInfo.cs
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.csproj.CoreCompileInputs.cache
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.dll
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\refint\converter-tipos.dll
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.pdb
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\converter-tipos.genruntimeconfig.cache
+E:\programas\formacao-c#\operadores-de-atribuicao\converter-tipos\obj\Debug\net8.0\ref\converter-tipos.dll

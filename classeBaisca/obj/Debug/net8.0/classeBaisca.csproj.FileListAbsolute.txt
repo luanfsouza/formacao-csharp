@@ -1,0 +1,14 @@
+E:\programas\formacao-c#\classeBaisca\bin\Debug\net8.0\classeBaisca.exe
+E:\programas\formacao-c#\classeBaisca\bin\Debug\net8.0\classeBaisca.deps.json
+E:\programas\formacao-c#\classeBaisca\bin\Debug\net8.0\classeBaisca.runtimeconfig.json
+E:\programas\formacao-c#\classeBaisca\bin\Debug\net8.0\classeBaisca.dll
+E:\programas\formacao-c#\classeBaisca\bin\Debug\net8.0\classeBaisca.pdb
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.AssemblyInfoInputs.cache
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.AssemblyInfo.cs
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.csproj.CoreCompileInputs.cache
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.dll
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\refint\classeBaisca.dll
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.pdb
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\classeBaisca.genruntimeconfig.cache
+E:\programas\formacao-c#\classeBaisca\obj\Debug\net8.0\ref\classeBaisca.dll

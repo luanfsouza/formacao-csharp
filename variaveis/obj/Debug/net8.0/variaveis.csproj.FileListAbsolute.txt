@@ -1,0 +1,14 @@
+E:\programas\formacao-c#\variaveis\bin\Debug\net8.0\variaveis.exe
+E:\programas\formacao-c#\variaveis\bin\Debug\net8.0\variaveis.deps.json
+E:\programas\formacao-c#\variaveis\bin\Debug\net8.0\variaveis.runtimeconfig.json
+E:\programas\formacao-c#\variaveis\bin\Debug\net8.0\variaveis.dll
+E:\programas\formacao-c#\variaveis\bin\Debug\net8.0\variaveis.pdb
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfoInputs.cache
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfo.cs
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.csproj.CoreCompileInputs.cache
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.dll
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\refint\variaveis.dll
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.pdb
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\variaveis.genruntimeconfig.cache
+E:\programas\formacao-c#\variaveis\obj\Debug\net8.0\ref\variaveis.dll

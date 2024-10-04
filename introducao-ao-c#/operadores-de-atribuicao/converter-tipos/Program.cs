@@ -6,3 +6,8 @@ Console.WriteLine(a);
 
 int b = int.Parse("145");
 Console.WriteLine(b); 
+
+string c = "138-";
+int d = 10;
+int.TryParse(c, out d);
+Console.WriteLine(d); 

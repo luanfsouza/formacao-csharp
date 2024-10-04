@@ -1,0 +1,15 @@
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.sourcelink.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\bin\Debug\net8.0\for.exe
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\bin\Debug\net8.0\for.deps.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\bin\Debug\net8.0\for.runtimeconfig.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\bin\Debug\net8.0\for.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\bin\Debug\net8.0\for.pdb
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\refint\for.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.pdb
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\for\obj\Debug\net8.0\ref\for.dll

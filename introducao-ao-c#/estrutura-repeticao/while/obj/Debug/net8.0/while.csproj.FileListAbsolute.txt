@@ -1,0 +1,15 @@
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\bin\Debug\net8.0\while.exe
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\bin\Debug\net8.0\while.deps.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\bin\Debug\net8.0\while.runtimeconfig.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\bin\Debug\net8.0\while.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\bin\Debug\net8.0\while.pdb
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.sourcelink.json
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\refint\while.dll
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.pdb
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+E:\programas\formacao-c#\introducao-ao-c#\estrutura-repeticao\while\obj\Debug\net8.0\ref\while.dll
